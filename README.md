@@ -11,7 +11,7 @@
 
 ## Screenshots
 - GUI:
-<img width="247" alt="Captura de ecrã 2023-06-26 150725" src="https://github.com/Fl13ip/Custom-Drawing-Classifier/assets/94529914/0c1d7305-2f17-4b43-ad7e-d090d3093533">
+<img width="247" alt="Captura de ecrã 2023-06-26 150725" src="https://github.com/Fl13ip/Custom-Drawing-Classifier/assets/94529914/d4a98290-52ae-481a-88d9-5490b23fe84c">
 
 - Drawing example:
-<img width="247" alt="Captura de ecrã 2023-06-26 150858" src="https://github.com/Fl13ip/Custom-Drawing-Classifier/assets/94529914/277fb00b-19ee-4c7d-a0da-306db8511b7c">
+<img width="247" alt="Captura de ecrã 2023-06-26 150858" src="https://github.com/Fl13ip/Custom-Drawing-Classifier/assets/94529914/9d2af7fb-4425-4c87-a7e2-d114d1f8b2f8">
